@@ -6,6 +6,18 @@ Most teams do not need another dashboard. They need an **AI agent** that reads t
 
 We work on **industrial AI monitoring** and **data center AI**: UPS units, air compressors, HVAC, generators and PLC telemetry, plus the business systems around them.
 
+## Founder
+
+**Mr. Fatir Ali** - Founder & Owner, SYNQEVRA Solutions
+
+Building AI agents, automation and monitoring software for data centers, industrial plants and
+service businesses in the US. Work focuses on approval gates, caps and audit trails so automation
+stays accountable.
+
+- Website: https://synqevrasolutions.github.io
+- Founder profile: https://synqevrasolutions.github.io/founder.html
+- Contact: fatircompanyai@gmail.com
+
 ## What we build
 
 - **AI agents and agentic workflows** - custom built, deployed, monitored. An agent that acts on telemetry, not one that only summarises it.
