@@ -42,3 +42,7 @@ No hype language, no proof of concept that never ships.
 - YouTube: [@synqevrasolution](https://www.youtube.com/@synqevrasolution)
 
 If your data center, plant or workshop needs this, contact SYNQEVRA Solutions.
+
+### AI agent approval gate
+A dependency-free Python gate for agents that act on real systems: risk classes, hourly caps, human approval and an audit trail.
+[ai-agent-approval-gate](https://github.com/SYNQEVRASolutions/ai-agent-approval-gate) - [checklist](https://github.com/SYNQEVRASolutions/ai-agent-approval-gate/blob/main/docs/agent-liability-checklist.md)
